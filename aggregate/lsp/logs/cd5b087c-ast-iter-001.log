@@ -1,0 +1,7 @@
+[2026-09-07T14:26:08Z] === AST ITERATION 1 START | repo=tree-sitter/tree-sitter sha=cd5b087c ===
+[2026-09-07T14:26:08Z] [iter=1] PHASE START: ast repo=tree-sitter/tree-sitter sha=cd5b087c
+[2026-09-07T14:26:08Z] [iter=1] Building AST aggregate chunks
+[2026-09-07T14:30:04Z] [iter=1] AST chunks built count=1 triples=2652193
+[2026-09-07T14:30:04Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/cd5b087cd9f45ca6d93ab1954f6b7c8534f324d2/.complete
+[2026-09-07T14:30:04Z] [iter=1] PHASE END: ast elapsed_s=236 elapsed_min=3.9
+[2026-09-07T14:30:04Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
